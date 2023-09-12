@@ -1,0 +1,21 @@
+#container{
+    border:1px solid blue;
+    width:1200px;
+    display:flex;
+   
+
+}
+
+
+
+
+.figlio{
+    
+    width:20%;
+}
+
+
+.figlio >img{
+    width:100%
+    
+}

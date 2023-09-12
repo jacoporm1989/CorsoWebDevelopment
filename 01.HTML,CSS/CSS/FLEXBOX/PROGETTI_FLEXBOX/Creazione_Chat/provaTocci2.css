@@ -1,0 +1,58 @@
+#container{
+    border:1px solid black;
+    width:60%;
+    height:350px;
+    background-color:yellow;
+    display:flex;
+    flex-flow:column nowrap;
+    justify-content:flex-start;
+    align-items:stretch;
+    align-content:stretch;
+  
+}
+
+
+.figlio{
+    height:17%;
+    width:20%;
+    border:1px solid red;
+    background-color:violet;
+}
+
+.cane{
+    order:2;
+}
+
+.gatto{
+    order:4;
+}
+
+
+.canarino{
+    order:5;
+}
+
+
+.capibara{
+    order:7;
+}
+
+
+.rinoceronte{
+    order:6;
+}
+
+
+.alpaca{
+    order:8;
+}
+
+
+.jena-ridens{
+    order:1;
+}
+
+
+.gabbiano{
+    order:3;
+}
