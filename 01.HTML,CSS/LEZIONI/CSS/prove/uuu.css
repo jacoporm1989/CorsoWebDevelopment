@@ -1,0 +1,15 @@
+.parent{
+    width:1000px;
+    height:950px;
+    border:2px solid blue;
+    padding:30px;
+    
+
+}
+
+.figlio{
+    width:70%;
+    height:70%;
+    border:2px solid red;
+    
+}
