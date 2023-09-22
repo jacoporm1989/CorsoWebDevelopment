@@ -1,0 +1,23 @@
+#container{
+    border:2px solid blue;
+    width:1000px;
+    font-family:sans-serif;
+    
+}
+
+h1,h2,h3,p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article p{
+    color:red;
+
+}
+
+#campanile{
+    background-color: green;
+}   
+
+#par22{
+    background-color:yellow;
+}

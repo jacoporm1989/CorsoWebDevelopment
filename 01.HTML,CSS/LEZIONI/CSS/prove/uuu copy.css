@@ -5,6 +5,7 @@
     
 }
 
-.lista-non-ordinata-esterna  > .elemento-esterno{
+.lista-non-ordinata-interna .elemento-interno{
     color:red;
 }
+
