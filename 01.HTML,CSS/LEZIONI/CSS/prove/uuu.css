@@ -1,3 +1,10 @@
+
+
+*{
+    color:red;
+}
+
+
 #container{
     border:2px solid blue;
     width:1000px;
@@ -5,6 +12,7 @@
     
 }
 
-.lista-non-ordinata-esterna  > .elemento-esterno{
-    color:red;
+
+.pesce .lista-non-ordinata-interna{
+    color:blue !important;
 }

@@ -5,7 +5,7 @@
     
 }
 
-.lista-non-ordinata-interna .elemento-interno{
+nav > a:link{
+    font-size:35px;
     color:red;
 }
-
