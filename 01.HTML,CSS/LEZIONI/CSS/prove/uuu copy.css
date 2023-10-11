@@ -5,7 +5,23 @@
     
 }
 
-nav > a:link{
+nav span{
     font-size:35px;
+    
+}
+
+nav > a:link{
+    color:red
+}
+
+nav > a:visited{
     color:red;
+}
+
+.a-ultimo{
+    text-decoration: overline greenyellow double 10%;
+}
+
+.span-ultimo{
+    text-decoration: overline greenyellow double 10%;
 }
