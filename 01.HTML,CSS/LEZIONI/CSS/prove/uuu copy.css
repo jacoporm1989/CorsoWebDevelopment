@@ -18,10 +18,6 @@ nav > a:visited{
     color:red;
 }
 
-.a-ultimo{
-    text-decoration: overline greenyellow double 10%;
-}
-
-.span-ultimo{
-    text-decoration: overline greenyellow double 10%;
+nav a:active{
+    background-color:yellow;
 }
