@@ -4,15 +4,3 @@
     color:red;
 }
 
-
-#container{
-    border:2px solid blue;
-    width:1000px;
-    font-family:sans-serif;
-    
-}
-
-
-.pesce .lista-non-ordinata-interna{
-    color:blue !important;
-}
