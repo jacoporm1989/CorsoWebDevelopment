@@ -5,40 +5,22 @@
 }
 
 
-div{
-    font-size:60px;
-    font-weight: bold;
-    color:greenyellow;
-    width:700px;
-    background-color:red;
+
+.div-container{
+    border:1px solid red;
+    width:70%;
+    font-size:2em;
+}
+
+.div1{
+    border:1px solid green;
+    width:50%;
     
 }
 
-p{
-    background-color:black;
-    color:white;
+.div2{
+    border:1px solid fuchsia;
+    width:65vw;
+    font-size:2em;
 }
-
-.fraseA{
-    background-color:blue;
-}
-
-#frase1{
-    background-color:grey;
-}
-
-
-.frase1{
-    background-color:violet;
-    font-size:20px;
-    
-}
-
-
-
-
-
-
-
-
 
