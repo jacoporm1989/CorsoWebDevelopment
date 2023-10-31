@@ -1,19 +1,9 @@
-.parent{
-    width:700px;
-    height:500px;
-    border:2px solid blue;
-    padding:20px;
-    margin:20px;
-    
-
+a{
+    font-size:50px;
+    cursor:wait;
 }
 
-.figlio{
-    width:70%;
-    height:70%;
-    border:2px solid red;
-    font-size:28%;
-    padding:20px;
-    margin:20px;
+a:visited{
+    color:blue;
 }
 
